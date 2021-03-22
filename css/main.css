@@ -514,8 +514,6 @@ h1 {
     top: -10px; }
     .contact form .form-inside input[type=email], .contact form .form-inside input[type=tel] {
       width: 240px; }
-  .fdc {
-    flex-direction: column; }
   .about .ellipse-1, .about .ellipse-2 {
     top: 1570px;
     left: 61px; }
